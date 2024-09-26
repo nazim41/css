@@ -1,1 +1,10 @@
-ECHO is on.
+ h1
+{
+    color: black;
+    font-size: 30px;
+    font-variant: small-caps;
+    font-weight: bold;
+    background-color: aquamarine;
+    text-align: center;
+    border-radius: 30px;
+}
